@@ -15,9 +15,9 @@ int main(){
         n=n/10;
     }
 if(sum==pro){
-    printf("the number is spy number");
+    printf("The number is spy number");
 }
 else{
-    printf("the number is not the spy number");
+    printf("The number is not the spy number");
 }
 }
